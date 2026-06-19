@@ -1,1 +1,1 @@
-# Text-to-SQL Pipeline
+# Natural Language - to - SQL Pipeline
