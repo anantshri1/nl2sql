@@ -1,1 +1,1 @@
-# nl2sql
+# Text-to-SQL Pipeline
