@@ -5,7 +5,7 @@ A from-scratch end-to-end agentic NL→SQL pipeline built with `LangChain`, `Cla
 * **Stage B**: Self-correction loop (still on Chinook)
 * **Stage C**: Eval harness, using BIRD — pick a handful of its (question, gold SQL) pairs, measure accuracy
 * **Stage D**: Schema retrieval — pick one of BIRD's larger/messier databases, show accuracy with vs. without retrieval
-* **Stage E**: Gradio app → deployed to Hugging Face Spaces
+* **Stage E**: Gradio app → deployed to [Hugging Face Spaces](anantshri1/nl2sql-agentic-pipeline)
 
 ---
 ## Manual NL→SQL chain
