@@ -1,4 +1,4 @@
-# Natural Language - to - SQL Pipeline
+# Natural Language-to-SQL Agentic Pipeline
 ---
 ## References
 * **Can LLM Already Serve as A Database Interface? A BIg Bench for Large-Scale Database Grounded Text-to-SQLs**, Jinyang Li, Binyuan Hui, Ge Qu, Jiaxi Yang, Binhua Li, Bowen Li, Bailin Wang, Bowen Qin, Rongyu Cao, Ruiying Geng, Nan Huo, Xuanhe Zhou, Chenhao Ma, Guoliang Li, Kevin C.C. Chang, Fei Huang, Reynold Cheng, Yongbin Li. (2023). arXiv: [2305.03111](https://arxiv.org/abs/2305.03111)
